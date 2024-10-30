@@ -78,8 +78,6 @@ markdown_extensions:
       custom_fences:
         - name: '*'
           class: '*'
-          format: !!python/name:superfences.prefix.formatter
-          validator: !!python/name:superfences.prefix.validator
   - pymdownx.critic
   - pymdownx.caret
   - pymdownx.keys
