@@ -2,7 +2,7 @@ site_name: Insights into Android OS
 site_url: https://ilaveniranjith.github.io/
 # edit_uri: docs/edit/main/docs
 use_directory_urls: false
-repo_name: GitHub
+repo_name: Insights into Android OS
 repo_url: https://github.com/IlaveniRanjith/ilaveniranjith.github.io
 nav:
   - Home: index.md

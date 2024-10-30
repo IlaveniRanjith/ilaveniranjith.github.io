@@ -18,7 +18,7 @@ Exploring Android OS at a deeper level has been a transformative journey for me.
 ## Latest Updates
 
 [Downloading and Building of AOSP](./downloading_and_building/downloading_and_building_aosp.md)  
-[Latest Post Title 2](#)  
-[Latest Post Title 3](#)  
+<!-- [Latest Post Title 2](#)  
+[Latest Post Title 3](#)   -->
 
 Stay tuned for more content, and feel free to reach out to me. Happy coding!
