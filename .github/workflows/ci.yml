@@ -18,6 +18,5 @@ jobs:
         with:
           key: ${{ github.ref }}
           path: .cache
-      - run: pip install mkdocs-material 
-      - run: python setup.py install 
+      - run: pip install mkdocs-material pymdown-extensions
       - run: mkdocs gh-deploy --force
